@@ -1,0 +1,28 @@
+[
+    {
+        "country":"United States",
+        "currency":"United States Dollar"
+    },
+
+    {
+        "country":"India",
+        "currency":"Indian Rupee"
+    },
+
+    {
+        "country":"Japan",
+        "currency":"Yen"
+    }, 
+
+    {
+        "country":"Russia",
+        "currency":"Ruble"
+    }, 
+
+    {
+        "country":"South Africa",
+        "currency":"Rand"
+    }
+
+
+]
